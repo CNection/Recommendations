@@ -43,8 +43,8 @@ function openWeb(link: string) {
                         </n-gradient-text>
                     </n-space>
                     <n-space>
-                        <n-select style="min-width: 120px;" v-model:value="tags" placeholder="select tags"
-                            :options="options" clearable />
+                        <n-select style="min-width: 120px;" v-model:value="tags" :placeholder="$t('select_tags')"
+                            :options="options" clearable/>
                         <n-button quaternary circle
                             @click="($i18n.locale.slice(0, 2) === 'zh') ? $i18n.locale = 'en' : $i18n.locale = 'zh'">
                                 <material-symbol v-if="$i18n.locale.slice(0, 2) === 'zh'">globe_uk</material-symbol>

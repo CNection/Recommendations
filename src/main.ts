@@ -17,12 +17,14 @@ let messages: Messages = {
     themeDark: '暗色',
     themeLight: '亮色',
     title: '交汇中国 资源推荐',
+    select_tags: '选择标签',
   },
   en: {
-    open: 'GO TO',
+    open: 'Open',
     themeDark: 'Dark',
     themeLight: 'Light',
     title: 'CNection Recommendations',
+    select_tags: 'Select Tags',
   },
 };
 
