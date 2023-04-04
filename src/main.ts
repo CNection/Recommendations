@@ -19,6 +19,7 @@ let messages: Messages = {
     title: '交汇中国 资源推荐',
     select_tags: '选择标签',
     about: '关于',
+    share_error: '您的浏览器不支持网页分享！',
   },
   en: {
     open: 'Open',
@@ -27,6 +28,7 @@ let messages: Messages = {
     title: 'CNection Recommendations',
     select_tags: 'Select Tags',
     about: 'About',
+    share_error: 'Your browser does not support web sharing!',
   },
 };
 

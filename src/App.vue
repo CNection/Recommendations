@@ -4,7 +4,9 @@ import type { Ref } from 'vue';
 import json from './data.json';
 import { darkTheme, useOsTheme } from 'naive-ui';
 import { useLocalStorage } from '@vueuse/core';
+import { useI18n } from 'vue-i18n';
 
+let { t } = useI18n();
 let osTheme = (useOsTheme().value === 'dark') ? darkTheme : null;
 let theme = ref(osTheme);
 let tags: Ref<string | null> = ref(null)
@@ -45,7 +47,7 @@ function shareWeb(url: string, title: string, text: string) {
             url: url,
         })
     } catch (e) {
-        alert("Your browser doesn't support Web Share API")
+        alert(t('share_error'))
         console.log(e)
     }
 }
