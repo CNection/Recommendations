@@ -38,17 +38,23 @@ function openWeb(link: string) {
 }
 
 function shareWeb(url: string, title: string, text: string) {
-    window.navigator.share({
-        title: title,
-        text: text,
-        url: url,
-    })
+    try {
+        window.navigator.share({
+            title: title,
+            text: text,
+            url: url,
+        })
+    } catch (e) {
+        alert("Your browser doesn't support Web Share API")
+        console.log(e)
+    }
 }
 
 </script>
 
 <template>
     <n-config-provider :theme="theme">
+        <n-global-style />
         <n-layout>
             <n-layout-header>
                 <n-space justify="space-between" align="end" style="padding: 16px 32px;">
@@ -58,8 +64,8 @@ function shareWeb(url: string, title: string, text: string) {
                         </n-gradient-text>
                     </n-space>
                     <n-space>
-                        <n-select v-model:value="tags" :placeholder="$t('select_tags')"
-                            :options="options" clearable filterable/>
+                        <n-select v-model:value="tags" :placeholder="$t('select_tags')" :options="options" clearable
+                            filterable />
                         <n-button quaternary circle
                             @click="($i18n.locale.slice(0, 2) === 'zh') ? $i18n.locale = 'en' : $i18n.locale = 'zh'">
                             <material-symbol v-if="$i18n.locale.slice(0, 2) === 'zh'">globe_uk</material-symbol>
