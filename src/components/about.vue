@@ -1,7 +1,7 @@
 <template>
     <n-button quaternary circle @click="showModal = !showModal">
         <template #icon>
-            <material-symbol>info</material-symbol>
+            <material-symbol :size="18">info</material-symbol>
         </template>
     </n-button>
     <n-modal v-model:show="showModal" style="width: 480px;text-align: justify;" preset="card" :title="$t('about')"
@@ -34,7 +34,8 @@
         </div>
         <div v-else>
             <n-p>
-                Welcome to CNection Recommendations, a website that helps you find the best websites for foreign students in China. Whether
+                Welcome to CNection Recommendations, a website that helps you find the best websites for foreign students in
+                China. Whether
                 you are looking for information, entertainment, education, or social networking, CNection has you covered.
                 In this guide, we will show you how to use the features of CNection to make your online experience more
                 enjoyable and convenient.
