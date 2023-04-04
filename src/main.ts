@@ -4,12 +4,11 @@ import { createI18n } from 'vue-i18n';
 import data from './data.json';
 
 interface Language {
-  [key: string]: string;
+  [key: string]: string | { [key: string]: string };
 }
 
 interface Messages {
-  zh: Language;
-  en: Language;
+  [key: string]: Language;
 }
 
 let messages: Messages = {
@@ -27,7 +26,7 @@ let messages: Messages = {
   },
 };
 
-data.forEach(element=> {
+data.forEach(element => {
   messages.zh[element.name.en] = {
     name: element.name.zh,
     desc: element.description.zh,
