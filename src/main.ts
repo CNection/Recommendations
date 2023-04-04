@@ -18,6 +18,7 @@ let messages: Messages = {
     themeLight: '亮色',
     title: '交汇中国 资源推荐',
     select_tags: '选择标签',
+    about: '关于',
   },
   en: {
     open: 'Open',
@@ -25,6 +26,7 @@ let messages: Messages = {
     themeLight: 'Light',
     title: 'CNection Recommendations',
     select_tags: 'Select Tags',
+    about: 'About',
   },
 };
 
