@@ -1,6 +1,47 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import { createI18n } from 'vue-i18n';
+import data from './data.json';
 
-import './assets/main.css'
+interface Language {
+  [key: string]: string;
+}
 
-createApp(App).mount('#app')
+interface Messages {
+  zh: Language;
+  en: Language;
+}
+
+let messages: Messages = {
+  zh: {
+    open: '打开网站',
+    themeDark: '暗色',
+    themeLight: '亮色',
+    title: '交汇中国 资源推荐',
+  },
+  en: {
+    open: 'GO TO',
+    themeDark: 'Dark',
+    themeLight: 'Light',
+    title: 'CNection Recommendations',
+  },
+};
+
+data.forEach(element=> {
+  messages.zh[element.name.en] = {
+    name: element.name.zh,
+    desc: element.description.zh,
+  };
+  messages.en[element.name.en] = {
+    name: element.name.en,
+    desc: element.description.en,
+  };
+});
+console.log(messages);
+const i18n = createI18n({
+  locale: navigator.language, // set locale
+  fallbackLocale: 'en', // set fallback locale
+  messages,
+});
+
+createApp(App).use(i18n).mount('#app');

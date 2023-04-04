@@ -1,0 +1,170 @@
+[
+    {
+        "url": "https://www.cgtn.com",
+        "name": {
+            "zh": "中国国际电视网",
+            "en": "China Globe Television Network"
+        },
+        "description": {
+            "zh": "中国官方电视台，提供权威的中国新闻与中华文化介绍。",
+            "en": "The official Chinese television station, which provides an authoritative introduction to Chinese news and Chinese culture."
+        },
+        "tag": [
+            "Official"
+        ]
+    },
+    {
+        "url": "https://wordnet.princeton.edu",
+        "name": {
+            "zh": "语义网络词典数据库",
+            "en": "Semantic Web Dictionary Database"
+        },
+        "description": {
+            "zh": "英语词汇数据库。",
+            "en": "A Lexical Database for English."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://openhownet.thunlp.org",
+        "name": {
+            "zh": "打开知网",
+            "en": "OPEN HowNet"
+        },
+        "description": {
+            "zh": "基于义原的语言知识库。",
+            "en": "Sememe-based language knowledge base."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://www.onelook.com",
+        "name": {
+            "zh": "一点就转：在线英文词典数据库",
+            "en": "OneLook Dictionary Search"
+        },
+        "description": {
+            "zh": "一次能够查询到各个词典的释义。",
+            "en": "Search meanings in each dictionary at \"one look\"."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://zh.hinative.com",
+        "name": {
+            "zh": "你好！母语者",
+            "en": "HiNative"
+        },
+        "description": {
+            "zh": "一个针对外语学习者的问答平台。",
+            "en": "A question and answer community for language learners."
+        },
+        "tag": [
+            "Education"
+        ]
+    },
+    {
+        "url": "https://dictionary.cambridge.org",
+        "name": {
+            "zh": "剑桥词典",
+            "en": "Cambridge Dictionary"
+        },
+        "description": {
+            "zh": "让您的词汇有意义。",
+            "en": "Make your words meaningful."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://www.apec.org",
+        "name": {
+            "zh": "亚太经济合作组织官网",
+            "en": "Asia-Pacific Economic Cooperation"
+        },
+        "description": {
+            "zh": "亚太区内各地区之间促进经济成长、合作、贸易、投资的论坛。",
+            "en": "Forum to promote economic growth, cooperation, trade, and investment among regions in the Asia-Pacific region."
+        },
+        "tag": [
+            "Official"
+        ]
+    },
+    {
+        "url": "https://wantwords.net/",
+        "name": {
+            "zh": "WantWords反向词典",
+            "en": "WantWords"
+        },
+        "description": {
+            "zh": "唯一支持中文及中英跨语言查询的反向词典系统，可以通过描述意思来查找词语。",
+            "en": "The only reverse dictionary system that supports cross-lingual query between Chinese and Chinese and English, and can find words by describing meaning."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://www.deepl.com/",
+        "name": {
+            "zh": "DeepL翻译",
+            "en": "DeepL Translate"
+        },
+        "description": {
+            "zh": "DeepL翻译是一个在线翻译服务，它可以翻译文本和整个文件。它声称比其他翻译服务更准确和流畅。它支持多种语言，包括中文、英文、德文、法文等。",
+            "en": "DeepL Translate is an online translation service that can translate texts and entire files. It claims to be more accurate and fluent than other translation services. It supports multiple languages, including Chinese, English, German, French, etc."
+        },
+        "tag": [
+            "Translator"
+        ]
+    },
+    {
+        "url": "https://funwebchinese.org/",
+        "name": {
+            "zh": "中文学习网",
+            "en": "Chinese Learning Website"
+        },
+        "description": {
+            "zh": "这个网站可以帮助你通过汉字偏旁来学习中文。这是一个正确的学习方法，已经被中国人使用了两千多年。",
+            "en": "This website helps you learn Chinese with Chinese radicals. This is a correct way of learning and has been used by Chinese for more than two thousand years."
+        },
+        "tag": [
+            "Education"
+        ]
+    },
+    {
+        "url": "https://www.echineselearning.com",
+        "name": {
+            "zh": "最实用的中文学习网站",
+            "en": "eChineseLearning"
+        },
+        "description": {
+            "zh": "这个网站提供了各类汉语学习资源，包括词汇、语法、听力、阅读、写作等。你还可以免费获取一对一的在线试听课程。",
+            "en": "This website provides various Chinese learning resources, including vocabulary, grammar, listening, reading, writing, etc. You can also get a free one-on-one online trial lesson."
+        },
+        "tag": [
+            "Education"
+        ]
+    },
+    {
+        "url": "http://www.yes-chinese.com/",
+        "name": {
+            "zh": "中文天下",
+            "en": "Yes! Chinese"
+        },
+        "description": {
+            "zh": "这个网站为海外中文学习者和中文教育机构提供中文教材和中文教学服务。它开发了从启蒙到大学、成人各阶段的中文学习系列课程，包括在线课程、多媒体互动cd等。",
+            "en": "This website provides Chinese textbooks and teaching services for overseas Chinese learners and educational institutions. It developed a series of Chinese learning courses from enlightenment to university and adult stages, including online courses, multimedia interactive CDs, etc."
+        },
+        "tag": [
+            "Education"
+        ]
+    }
+]
