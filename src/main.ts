@@ -47,6 +47,7 @@ const i18n = createI18n({
   locale: navigator.language, // set locale
   fallbackLocale: 'en', // set fallback locale
   messages,
+  legacy: false,
 });
 
 createApp(App).use(i18n).mount('#app');
