@@ -14,6 +14,20 @@
         ]
     },
     {
+        "url": "https://wantquotes.net/",
+        "name": {
+            "zh": "WantQuotes 据意查句",
+            "en": "WantQuotes"
+        },
+        "description": {
+            "zh": "一个可以根据你输入描述的意思来查找相应的名言名句的网站。",
+            "en": "A website that allows you to search for quotes based on the meaning you input."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
         "url": "https://wordnet.princeton.edu",
         "name": {
             "zh": "语义网络词典数据库",
@@ -100,12 +114,12 @@
     {
         "url": "https://wantwords.net/",
         "name": {
-            "zh": "WantWords反向词典",
-            "en": "WantWords"
+            "zh": "WantWords 反向词典",
+            "en": "WantWords Reverse Dictionary"
         },
         "description": {
             "zh": "唯一支持中文及中英跨语言查询的反向词典系统，可以通过描述意思来查找词语。",
-            "en": "The only reverse dictionary system that supports cross-lingual query between Chinese and Chinese and English, and can find words by describing meaning."
+            "en": "The only reverse dictionary system that supports Chinese and cross-language Chinese-English queries, allowing you to find words by describing their meaning."
         },
         "tag": [
             "Dictionary"
@@ -165,6 +179,104 @@
         },
         "tag": [
             "Education"
+        ]
+    },
+    {
+        "url": "https://www.microsoft.com/language",
+        "name": {
+            "zh": "微软语言门户",
+            "en": "Microsoft Language Portal"
+        },
+        "description": {
+            "zh": "一组在 Microsoft 产品中使用的标准技术术语。",
+            "en": "A collection of standard technical terms used in Microsoft products."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://www.cnkeywords.net/",
+        "name": {
+            "zh": "中国关键词",
+            "en": "China Keywords"
+        },
+        "description": {
+            "zh": "一个多语种的中国百科全书。",
+            "en": "A multilingual encyclopedia of China."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://www.termonline.cn/",
+        "name": {
+            "zh": "术语在线",
+            "en": "Termonline"
+        },
+        "description": {
+            "zh": "全国科学技术名词审定委员会着力打造的术语知识公共服务平台。",
+            "en": "A public service platform for terminology knowledge created by the National Committee for the Examination and Approval of Scientific and Technical Terms."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://unterm.un.org/",
+        "name": {
+            "zh": "联合国术语数据库",
+            "en": "United Nations Terminology Database"
+        },
+        "description": {
+            "zh": "联合国内部官方多语种术语库。",
+            "en": "The official multilingual terminology database used internally by the United Nations."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "https://shuyuku.chinesethought.cn/",
+        "name": {
+            "zh": "中华思想文化术语库",
+            "en": "Key Concepts in Chinese Thought and Culture"
+        },
+        "description": {
+            "zh": "主要收录“中华思想文化术语传播工程”近几年的最重要成果--中华思想文化术语。",
+            "en": "A collection of key concepts in Chinese thought and culture from the recent work of the Chinese Thought and Culture Terminology Dissemination Project."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "http://210.72.20.108",
+        "name": {
+            "zh": "中国特色话语对外翻译标准化术语库",
+            "en": "Chinese Characteristic Discourse Translation Standardization Terminology Database"
+        },
+        "description": {
+            "zh": "中国外文局、中国翻译研究院主持建设的首个国家级多语种权威专业术语库。",
+            "en": "The first national-level multilingual authoritative professional terminology database established by the China Foreign Languages Bureau and the China Translation Research Institute."
+        },
+        "tag": [
+            "Dictionary"
+        ]
+    },
+    {
+        "url": "http://www.china.org.cn/chinese/china_key_words/",
+        "name": {
+            "zh": "中国关键词",
+            "en": "China Key Words"
+        },
+        "description": {
+            "zh": "中国外文局、当代中国与世界研究院主持建设的多语种权威专业术语库。",
+            "en": "A multilingual authoritative professional terminology database established by the China Foreign Languages Bureau and the Contemporary China and World Research Institute."
+        },
+        "tag": [
+            "Dictionary"
         ]
     }
 ]
