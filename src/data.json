@@ -310,7 +310,10 @@
         },
         "description": {
             "zh": "全国科学技术名词审定委员会着力打造的术语知识公共服务平台。",
-            "en": "A public service platform for terminology knowledge created by the National Committee for the Examination and Approval of Scientific and Technical Terms."
+            "en": "A public service platform for terminology knowledge created by the National Committee for the Examination and Approval of Scientific and Technical Terms.",
+            "de": "Eine öffentliche Dienstleistungsplattform für Terminologiekenntnisse, die vom Nationalen Ausschuss zur Prüfung und Genehmigung wissenschaftlicher und technischer Begriffe erstellt wurde.",
+            "ja": "国家科学技術用語審定委員会が作成した用語知識の公共サービスプラットフォーム。",
+            "es": "Una plataforma de servicios públicos para el conocimiento de términos creada por el Comité Nacional para la Examen y Aprobación de Términos Científicos y Técnicos."
         },
         "tag": [
             "Dictionary"
