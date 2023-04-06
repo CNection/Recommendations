@@ -20,6 +20,7 @@ let messages: Messages = {
     select_tags: '选择标签',
     about: '关于',
     share_error: '您的浏览器不支持网页分享！',
+    empty: '暂无数据',
   },
   en: {
     open: 'Open',
@@ -29,6 +30,37 @@ let messages: Messages = {
     select_tags: 'Select Tags',
     about: 'About',
     share_error: 'Your browser does not support web sharing!',
+    empty: 'No data',
+  },
+  de: {
+    open: 'Öffnen',
+    themeDark: 'Dunkel',
+    themeLight: 'Hell',
+    title: 'CNection Empfehlungen',
+    select_tags: 'Wählen Sie Tags',
+    about: 'Über',
+    share_error: 'Ihr Browser unterstützt das Teilen von Webseiten nicht!',
+    empty: 'Keine Daten',
+  },
+  ja: {
+    open: '開く',
+    themeDark: '暗い',
+    themeLight: '明るい',
+    title: 'CNectionのおすすめ',
+    select_tags: 'タグを選択',
+    about: '約',
+    share_error: 'あなたのブラウザはウェブ共有をサポートしていません！',
+    empty: 'データなし',
+  },
+  es: {
+    open: 'Abierto',
+    themeDark: 'Oscuro',
+    themeLight: 'Luz',
+    title: 'Recomendaciones de CNection',
+    select_tags: 'Seleccionar etiquetas',
+    about: 'Acerca de',
+    share_error: '¡Su navegador no admite compartir sitios web!',
+    empty: 'Sin datos',
   },
 };
 
@@ -40,6 +72,18 @@ data.forEach(element => {
   messages.en[element.name.en] = {
     name: element.name.en,
     desc: element.description.en,
+  };
+  messages.de[element.name.en] = {
+    name: element.name.de,
+    desc: element.description.de,
+  };
+  messages.ja[element.name.en] = {
+    name: element.name.ja,
+    desc: element.description.ja,
+  };
+  messages.es[element.name.en] = {
+    name: element.name.es,
+    desc: element.description.es,
   };
 });
 console.log(messages);

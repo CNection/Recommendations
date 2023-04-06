@@ -3,11 +3,17 @@
         "url": "https://www.cgtn.com",
         "name": {
             "zh": "中国国际电视网",
-            "en": "China Globe Television Network"
+            "en": "China Globe Television Network",
+            "de": "China Globe Television Network",
+            "ja": "中国国際テレビネットワーク",
+            "es": "China Globe Television Network"
         },
         "description": {
             "zh": "中国官方电视台，提供权威的中国新闻与中华文化介绍。",
-            "en": "The official Chinese television station, which provides an authoritative introduction to Chinese news and Chinese culture."
+            "en": "The official Chinese television station, which provides an authoritative introduction to Chinese news and Chinese culture.",
+            "de": "Der offizielle chinesische Fernsehsender, der eine autoritative Einführung in chinesische Nachrichten und chinesische Kultur bietet.",
+            "ja": "中国の公式テレビ局で、中国のニュースと中国文化の概要を提供します。",
+            "es": "La estación de televisión oficial de China, que proporciona una introducción autorizada a las noticias chinas y la cultura china."
         },
         "tag": [
             "Official"
@@ -17,11 +23,17 @@
         "url": "https://wantquotes.net/",
         "name": {
             "zh": "WantQuotes 据意查句",
-            "en": "WantQuotes"
+            "en": "WantQuotes",
+            "de": "WantQuotes",
+            "ja": "WantQuotes",
+            "es": "WantQuotes"
         },
         "description": {
             "zh": "一个可以根据你输入描述的意思来查找相应的名言名句的网站。",
-            "en": "A website that allows you to search for quotes based on the meaning you input."
+            "en": "A website that allows you to search for quotes based on the meaning you input.",
+            "de": "Eine Website, die Ihnen ermöglicht, Zitate anhand der von Ihnen eingegebenen Bedeutung zu suchen.",
+            "ja": "入力した意味に基づいて引用を検索できるウェブサイトです。",
+            "es": "Un sitio web que le permite buscar citas según el significado que ingrese."
         },
         "tag": [
             "Dictionary"
@@ -31,11 +43,17 @@
         "url": "https://wordnet.princeton.edu",
         "name": {
             "zh": "语义网络词典数据库",
-            "en": "Semantic Web Dictionary Database"
+            "en": "Semantic Web Dictionary Database",
+            "de": "Semantic Web Dictionary Database",
+            "ja": "Semantic Web Dictionary Database",
+            "es": "Semantic Web Dictionary Database"
         },
         "description": {
             "zh": "英语词汇数据库。",
-            "en": "A Lexical Database for English."
+            "en": "A Lexical Database for English.",
+            "de": "Ein Lexikondatenbank für Englisch.",
+            "ja": "英語の辞書データベース。",
+            "es": "Una base de datos léxica para inglés."
         },
         "tag": [
             "Dictionary"
@@ -45,11 +63,17 @@
         "url": "https://openhownet.thunlp.org",
         "name": {
             "zh": "打开知网",
-            "en": "OPEN HowNet"
+            "en": "OPEN HowNet",
+            "de": "OPEN HowNet",
+            "ja": "OPEN HowNet",
+            "es": "OPEN HowNet"
         },
         "description": {
             "zh": "基于义原的语言知识库。",
-            "en": "Sememe-based language knowledge base."
+            "en": "Sememe-based language knowledge base.",
+            "de": "Sememe-basierte Sprachwissensbasis.",
+            "ja": "セメームベースの言語知識ベース。",
+            "es": "Base de conocimiento de lenguaje basada en sememas."
         },
         "tag": [
             "Dictionary"
@@ -59,11 +83,17 @@
         "url": "https://www.onelook.com",
         "name": {
             "zh": "一点就转：在线英文词典数据库",
-            "en": "OneLook Dictionary Search"
+            "en": "OneLook Dictionary Search",
+            "de": "OneLook Dictionary Search",
+            "ja": "OneLook Dictionary Search",
+            "es": "OneLook Dictionary Search"
         },
         "description": {
             "zh": "一次能够查询到各个词典的释义。",
-            "en": "Search meanings in each dictionary at \"one look\"."
+            "en": "Search meanings in each dictionary at \"one look\".",
+            "de": "Suchen Sie Bedeutungen in jedem Wörterbuch auf einen Blick.",
+            "ja": "一目で各辞書の意味を検索します。",
+            "es": "Busque significados en cada diccionario en \"un vistazo\"."
         },
         "tag": [
             "Dictionary"
@@ -73,11 +103,17 @@
         "url": "https://zh.hinative.com",
         "name": {
             "zh": "你好！母语者",
-            "en": "HiNative"
+            "en": "HiNative",
+            "de": "HiNative",
+            "ja": "HiNative",
+            "es": "HiNative"
         },
         "description": {
             "zh": "一个针对外语学习者的问答平台。",
-            "en": "A question and answer community for language learners."
+            "en": "A question and answer community for language learners.",
+            "de": "Eine Frage-und-Antwort-Gemeinschaft für Sprachlerner.",
+            "ja": "言語学習者のための質問と回答コミュニティ。",
+            "es": "Una comunidad de preguntas y respuestas para estudiantes de idiomas."
         },
         "tag": [
             "Education"
@@ -87,11 +123,17 @@
         "url": "https://dictionary.cambridge.org",
         "name": {
             "zh": "剑桥词典",
-            "en": "Cambridge Dictionary"
+            "en": "Cambridge Dictionary",
+            "de": "Cambridge Dictionary",
+            "ja": "Cambridge Dictionary",
+            "es": "Cambridge Dictionary"
         },
         "description": {
             "zh": "让您的词汇有意义。",
-            "en": "Make your words meaningful."
+            "en": "Make your words meaningful.",
+            "de": "Machen Sie Ihre Worte sinnvoll.",
+            "ja": "あなたの言葉を意味のあるものにしましょう。",
+            "es": "Haga que sus palabras tengan sentido."
         },
         "tag": [
             "Dictionary"
@@ -101,11 +143,17 @@
         "url": "https://www.apec.org",
         "name": {
             "zh": "亚太经济合作组织官网",
-            "en": "Asia-Pacific Economic Cooperation"
+            "en": "Asia-Pacific Economic Cooperation",
+            "de": "Asia-Pacific Economic Cooperation",
+            "ja": "Asia-Pacific Economic Cooperation",
+            "es": "Asia-Pacific Economic Cooperation"
         },
         "description": {
             "zh": "亚太区内各地区之间促进经济成长、合作、贸易、投资的论坛。",
-            "en": "Forum to promote economic growth, cooperation, trade, and investment among regions in the Asia-Pacific region."
+            "en": "Forum to promote economic growth, cooperation, trade, and investment among regions in the Asia-Pacific region.",
+            "de": "Forum zur Förderung des Wirtschaftswachstums, der Zusammenarbeit, des Handels und der Investitionen unter den Regionen in der Asien-Pazifik-Region.",
+            "ja": "アジア太平洋地域の地域間で経済成長、協力、貿易、投資を促進するためのフォーラム。",
+            "es": "Foro para promover el crecimiento económico, la cooperación, el comercio e inversión entre regiones en la región de Asia-Pacífico."
         },
         "tag": [
             "Official"
@@ -115,11 +163,17 @@
         "url": "https://wantwords.net/",
         "name": {
             "zh": "WantWords 反向词典",
-            "en": "WantWords Reverse Dictionary"
+            "en": "WantWords Reverse Dictionary",
+            "de": "WantWords Reverse Dictionary",
+            "ja": "WantWords Reverse Dictionary",
+            "es": "WantWords Reverse Dictionary"
         },
         "description": {
             "zh": "唯一支持中文及中英跨语言查询的反向词典系统，可以通过描述意思来查找词语。",
-            "en": "The only reverse dictionary system that supports Chinese and cross-language Chinese-English queries, allowing you to find words by describing their meaning."
+            "en": "The only reverse dictionary system that supports Chinese and cross-language Chinese-English queries, allowing you to find words by describing their meaning.",
+            "de": "Das einzige Reverse-Wörterbuch-System, das chinesische und krosssprachige chinesisch-englische Abfragen unterstützt, mit dem Sie Wörter durch Beschreibung ihres Bedeutungsgehalts finden können.",
+            "ja": "唯一の逆辞書システムで、中国語とクロス言語中国語-英語のクエリをサポートし、意味を記述して単語を検索できます。",
+            "es": "El único sistema de diccionario inverso que admite consultas chinas y de idioma cruzado chino-inglés, que le permite encontrar palabras describiendo su significado."
         },
         "tag": [
             "Dictionary"
@@ -129,11 +183,17 @@
         "url": "https://www.deepl.com/",
         "name": {
             "zh": "DeepL翻译",
-            "en": "DeepL Translate"
+            "en": "DeepL Translate",
+            "de": "DeepL Übersetzer",
+            "ja": "DeepL 翻訳",
+            "es": "DeepL Translate"
         },
         "description": {
             "zh": "DeepL翻译是一个在线翻译服务，它可以翻译文本和整个文件。它声称比其他翻译服务更准确和流畅。它支持多种语言，包括中文、英文、德文、法文等。",
-            "en": "DeepL Translate is an online translation service that can translate texts and entire files. It claims to be more accurate and fluent than other translation services. It supports multiple languages, including Chinese, English, German, French, etc."
+            "en": "DeepL Translate is an online translation service that can translate texts and entire files. It claims to be more accurate and fluent than other translation services. It supports multiple languages, including Chinese, English, German, French, etc.",
+            "de": "DeepL Translate ist ein Online-Übersetzungsdienst, der Texte und ganze Dateien übersetzen kann. Es behauptet, genauer und flüssiger als andere Übersetzungsdienste zu sein. Es unterstützt mehrere Sprachen, darunter Chinesisch, Englisch, Deutsch, Französisch usw.",
+            "ja": "DeepL Translateは、テキストとファイル全体を翻訳できるオンライン翻訳サービスです。他の翻訳サービスよりも正確で流暢であると主張しています。中国語、英語、ドイツ語、フランス語などの複数の言語をサポートしています。",
+            "es": "DeepL Translate es un servicio de traducción en línea que puede traducir textos y archivos completos. Afirma ser más preciso y fluido que otros servicios de traducción. Soporta múltiples idiomas, incluidos chino, inglés, alemán, francés, etc."
         },
         "tag": [
             "Translator"
@@ -143,11 +203,17 @@
         "url": "https://funwebchinese.org/",
         "name": {
             "zh": "中文学习网",
-            "en": "Chinese Learning Website"
+            "en": "Chinese Learning Website",
+            "de": "Chinese Learning Website",
+            "ja": "Chinese Learning Website",
+            "es": "Chinese Learning Website"
         },
         "description": {
             "zh": "这个网站可以帮助你通过汉字偏旁来学习中文。这是一个正确的学习方法，已经被中国人使用了两千多年。",
-            "en": "This website helps you learn Chinese with Chinese radicals. This is a correct way of learning and has been used by Chinese for more than two thousand years."
+            "en": "This website helps you learn Chinese with Chinese radicals. This is a correct way of learning and has been used by Chinese for more than two thousand years.",
+            "de": "Diese Website hilft Ihnen, Chinesisch mit chinesischen Radikalen zu lernen. Dies ist eine richtige Lernmethode und wird seit mehr als zweitausend Jahren von Chinesen verwendet.",
+            "ja": "このウェブサイトでは、中国語の部首を使用して中国語を学ぶことができます。これは正しい学習方法で、中国人が2000年以上にわたって使用してきました。",
+            "es": "Este sitio web le ayuda a aprender chino con radicales chinos. Esta es una forma correcta de aprender y ha sido utilizada por los chinos durante más de dos mil años."
         },
         "tag": [
             "Education"
@@ -157,11 +223,17 @@
         "url": "https://www.echineselearning.com",
         "name": {
             "zh": "最实用的中文学习网站",
-            "en": "eChineseLearning"
+            "en": "eChineseLearning",
+            "de": "eChineseLearning",
+            "ja": "eChineseLearning",
+            "es": "eChineseLearning"
         },
         "description": {
             "zh": "这个网站提供了各类汉语学习资源，包括词汇、语法、听力、阅读、写作等。你还可以免费获取一对一的在线试听课程。",
-            "en": "This website provides various Chinese learning resources, including vocabulary, grammar, listening, reading, writing, etc. You can also get a free one-on-one online trial lesson."
+            "en": "This website provides various Chinese learning resources, including vocabulary, grammar, listening, reading, writing, etc. You can also get a free one-on-one online trial lesson.",
+            "de": "Diese Website bietet verschiedene chinesische Lernressourcen, darunter Vokabular, Grammatik, Hörverstehen, Lesen, Schreiben usw. Sie können auch eine kostenlose Einzelunterrichtsstunde online erhalten.",
+            "ja": "このウェブサイトでは、中国語の学習リソースを様々な種類で提供しています。語彙、文法、リスニング、リーディング、ライティングなどです。無料で1対1のオンライン体験レッスンを受けることもできます。",
+            "es": "Este sitio web ofrece varios recursos de aprendizaje chino, incluidos vocabulario, gramática, escucha, lectura, escritura, etc. También puede obtener una lección de prueba en línea gratuita uno a uno."
         },
         "tag": [
             "Education"
@@ -171,11 +243,17 @@
         "url": "http://www.yes-chinese.com/",
         "name": {
             "zh": "中文天下",
-            "en": "Yes! Chinese"
+            "en": "Yes! Chinese",
+            "de": "Yes! Chinese",
+            "ja": "Yes! Chinese",
+            "es": "Yes! Chinese"
         },
         "description": {
             "zh": "这个网站为海外中文学习者和中文教育机构提供中文教材和中文教学服务。它开发了从启蒙到大学、成人各阶段的中文学习系列课程，包括在线课程、多媒体互动cd等。",
-            "en": "This website provides Chinese textbooks and teaching services for overseas Chinese learners and educational institutions. It developed a series of Chinese learning courses from enlightenment to university and adult stages, including online courses, multimedia interactive CDs, etc."
+            "en": "This website provides Chinese textbooks and teaching services for overseas Chinese learners and educational institutions. It developed a series of Chinese learning courses from enlightenment to university and adult stages, including online courses, multimedia interactive CDs, etc.",
+            "de": "Diese Website bietet chinesische Lehrbücher und Unterrichtsdienste für ausländische chinesische Lernende und Bildungseinrichtungen. Es entwickelte eine Reihe von chinesischen Lernkursen von der Erleuchtung bis zur Universität und Erwachsenenstufe, darunter Online-Kurse, Multimedia-Interaktive CDs usw.",
+            "ja": "このウェブサイトは、海外の中国語学習者と教育機関向けに中国語教材と中国語教育サービスを提供しています。それは、啓蒙から大学、大人の各段階の中国語学習シリーズコースを開発しました。オンラインコース、マルチメディアインタラクティブCDなどが含まれています。",
+            "es": "Este sitio web ofrece libros de texto chinos y servicios de enseñanza para estudiantes chinos y centros educativos extranjeros. Desarrolló una serie de cursos de aprendizaje chino desde la iluminación hasta la universidad y la etapa adulta, que incluyen cursos en línea, CDs interactivos multimedia, etc."
         },
         "tag": [
             "Education"
@@ -185,11 +263,17 @@
         "url": "https://www.microsoft.com/language",
         "name": {
             "zh": "微软语言门户",
-            "en": "Microsoft Language Portal"
+            "en": "Microsoft Language Portal",
+            "de": "Microsoft Sprachenportal",
+            "ja": "Microsoft 言語ポータル",
+            "es": "Portal de idiomas de Microsoft"
         },
         "description": {
             "zh": "一组在 Microsoft 产品中使用的标准技术术语。",
-            "en": "A collection of standard technical terms used in Microsoft products."
+            "en": "A collection of standard technical terms used in Microsoft products.",
+            "de": "Eine Sammlung von Standardtechnologiebegriffen, die in Microsoft-Produkten verwendet werden.",
+            "ja": "Microsoft 製品で使用される標準的な技術用語のコレクション。",
+            "es": "Una colección de términos técnicos estándar utilizados en productos de Microsoft."
         },
         "tag": [
             "Dictionary"
@@ -199,11 +283,17 @@
         "url": "https://www.cnkeywords.net/",
         "name": {
             "zh": "中国关键词",
-            "en": "China Keywords"
+            "en": "China Keywords",
+            "de": "China Keywords",
+            "ja": "中国キーワード",
+            "es": "China Keywords"
         },
         "description": {
             "zh": "一个多语种的中国百科全书。",
-            "en": "A multilingual encyclopedia of China."
+            "en": "A multilingual encyclopedia of China.",
+            "de": "Eine mehrsprachige Enzyklopädie über China.",
+            "ja": "中国の多言語百科事典。",
+            "es": "Una enciclopedia multilingüe de China."
         },
         "tag": [
             "Dictionary"
@@ -213,7 +303,10 @@
         "url": "https://www.termonline.cn/",
         "name": {
             "zh": "术语在线",
-            "en": "Termonline"
+            "en": "Termonline",
+            "de": "Termonline",
+            "ja": "Termonline",
+            "es": "Termonline"
         },
         "description": {
             "zh": "全国科学技术名词审定委员会着力打造的术语知识公共服务平台。",
@@ -227,11 +320,17 @@
         "url": "https://unterm.un.org/",
         "name": {
             "zh": "联合国术语数据库",
-            "en": "United Nations Terminology Database"
+            "en": "United Nations Terminology Database",
+            "de": "United Nations Terminology Database",
+            "ja": "United Nations Terminology Database",
+            "es": "La Base de Datos Terminológica de las Naciones Unidas"
         },
         "description": {
             "zh": "联合国内部官方多语种术语库。",
-            "en": "The official multilingual terminology database used internally by the United Nations."
+            "en": "The official multilingual terminology database used internally by the United Nations.",
+            "de": "Die offizielle mehrsprachige Terminologie-Datenbank, die intern von den Vereinten Nationen verwendet wird.",
+            "ja": "国連内部で使用されている公式の多言語用語データベース。",
+            "es": "La base de datos terminológica multilingüe oficial utilizada internamente por las Naciones Unidas."
         },
         "tag": [
             "Dictionary"
@@ -241,11 +340,17 @@
         "url": "https://shuyuku.chinesethought.cn/",
         "name": {
             "zh": "中华思想文化术语库",
-            "en": "Key Concepts in Chinese Thought and Culture"
+            "en": "Key Concepts in Chinese Thought and Culture",
+            "de": "Key Concepts in Chinese Thought and Culture",
+            "ja": "Key Concepts in Chinese Thought and Culture",
+            "es": "Key Concepts in Chinese Thought and Culture"
         },
         "description": {
             "zh": "主要收录“中华思想文化术语传播工程”近几年的最重要成果--中华思想文化术语。",
-            "en": "A collection of key concepts in Chinese thought and culture from the recent work of the Chinese Thought and Culture Terminology Dissemination Project."
+            "en": "A collection of key concepts in Chinese thought and culture from the recent work of the Chinese Thought and Culture Terminology Dissemination Project.",
+            "de": "Eine Sammlung der wichtigsten Ergebnisse des chinesischen Denk- und Kulturterminologie-Projekts.",
+            "ja": "中国思想文化用語伝播工学プロジェクトの最近の主要な成果である中国思想文化用語のコレクション。",
+            "es": "Una colección de los resultados más importantes del proyecto de difusión de términos de pensamiento y cultura chinos."
         },
         "tag": [
             "Dictionary"
@@ -255,11 +360,17 @@
         "url": "http://210.72.20.108",
         "name": {
             "zh": "中国特色话语对外翻译标准化术语库",
-            "en": "Chinese Characteristic Discourse Translation Standardization Terminology Database"
+            "en": "Chinese Characteristic Discourse Translation Standardization Terminology Database",
+            "de": "Chinese Characteristic Discourse Translation Standardization Terminology Database",
+            "ja": "Chinese Characteristic Discourse Translation Standardization Terminology Database",
+            "es": "Chinese Characteristic Discourse Translation Standardization Terminology Database"
         },
         "description": {
             "zh": "中国外文局、中国翻译研究院主持建设的首个国家级多语种权威专业术语库。",
-            "en": "The first national-level multilingual authoritative professional terminology database established by the China Foreign Languages Bureau and the China Translation Research Institute."
+            "en": "The first national-level multilingual authoritative professional terminology database established by the China Foreign Languages Bureau and the China Translation Research Institute.",
+            "de": "Die erste nationale mehrsprachige autoritative Fachterminologie-Datenbank, die von der China Foreign Languages Bureau und der China Translation Research Institute gegründet wurde.",
+            "ja": "中国外文局、中国翻訳研究院が主導して作成された最初の国家レベルの多言語用語データベース。",
+            "es": "La primera base de datos de términos profesionales multilingües de autoridad nacional establecida por la China Foreign Languages Bureau y la China Translation Research Institute."
         },
         "tag": [
             "Dictionary"
@@ -269,11 +380,17 @@
         "url": "http://www.china.org.cn/chinese/china_key_words/",
         "name": {
             "zh": "中国关键词",
-            "en": "China Key Words"
+            "en": "China Key Words",
+            "de": "China Key Words",
+            "ja": "中国キーワード",
+            "es": "China Key Words"
         },
         "description": {
             "zh": "中国外文局、当代中国与世界研究院主持建设的多语种权威专业术语库。",
-            "en": "A multilingual authoritative professional terminology database established by the China Foreign Languages Bureau and the Contemporary China and World Research Institute."
+            "en": "A multilingual authoritative professional terminology database established by the China Foreign Languages Bureau and the Contemporary China and World Research Institute.",
+            "de": "Eine mehrsprachige autoritative Fachterminologie-Datenbank, die von der China Foreign Languages Bureau und der Contemporary China and World Research Institute gegründet wurde.",
+            "ja": "中国外文局、現代中国と世界研究所が主導して作成された多言語用語データベース。",
+            "es": "Una base de datos de términos profesionales multilingües de autoridad establecida por la China Foreign Languages Bureau y la Contemporary China and World Research Institute."
         },
         "tag": [
             "Dictionary"

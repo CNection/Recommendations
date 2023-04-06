@@ -11,10 +11,13 @@ declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     About: typeof import('./src/components/about.vue')['default']
     CardFavorate: typeof import('./src/components/card-favorate.vue')['default']
+    LanguageSwitcher: typeof import('./src/components/language-switcher.vue')['default']
     MaterialSymbol: typeof import('./src/components/material-symbol.vue')['default']
     NButton: typeof import('naive-ui')['NButton']
     NCard: typeof import('naive-ui')['NCard']
     NConfigProvider: typeof import('naive-ui')['NConfigProvider']
+    NDropdown: typeof import('naive-ui')['NDropdown']
+    NEmpty: typeof import('naive-ui')['NEmpty']
     NGlobalStyle: typeof import('naive-ui')['NGlobalStyle']
     NGradientText: typeof import('naive-ui')['NGradientText']
     NLayout: typeof import('naive-ui')['NLayout']

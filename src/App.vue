@@ -5,6 +5,8 @@ import json from './data.json';
 import { darkTheme, useOsTheme } from 'naive-ui';
 import { useLocalStorage } from '@vueuse/core';
 import { useI18n } from 'vue-i18n';
+import type { pxfy } from 'seemly';
+import LanguageSwitcher from './components/language-switcher.vue';
 
 let { t } = useI18n();
 let osTheme = (useOsTheme().value === 'dark') ? darkTheme : null;
@@ -68,11 +70,7 @@ function shareWeb(url: string, title: string, text: string) {
                     <n-space>
                         <n-select v-model:value="tags" :placeholder="$t('select_tags')" :options="options" clearable
                             filterable />
-                        <n-button quaternary circle
-                            @click="($i18n.locale.slice(0, 2) === 'zh') ? $i18n.locale = 'en' : $i18n.locale = 'zh'">
-                            <material-symbol :size="18" v-if="$i18n.locale.slice(0, 2) === 'zh'">globe_uk</material-symbol>
-                            <material-symbol :size="18" v-else>globe_asia</material-symbol>
-                        </n-button>
+                        <language-switcher />
                         <n-button quaternary circle @click="switchTheme()" class="theme-toggle"
                             :class="{ 'theme-toggle--toggled': (theme === null) }" attr-type="button" title="Toggle theme"
                             aria-label="Toggle theme">
@@ -103,7 +101,9 @@ function shareWeb(url: string, title: string, text: string) {
                     </n-space>
                 </n-space>
             </n-layout-header>
-            <n-layout-content content-style="padding: 24px; display:flex; flex-flow: row wrap;">
+            <!-- <n-layout-content content-style="padding: 24px; display:flex; flex-flow: row wrap;"> -->
+            <n-layout-content
+                :content-style="{ 'padding': '24px', 'display': (data.length === 0) ? '' : 'flex', 'flex-flow': 'row wrap' }">
                 <n-card class="cards" v-for="item in data" hoverable embedded>
                     <template #header>{{ $t(item.name.en + '.name') }}</template>
                     <template #header-extra>
@@ -130,6 +130,8 @@ function shareWeb(url: string, title: string, text: string) {
                         </n-space>
                     </template>
                 </n-card>
+                <!-- 空白页 -->
+                <n-empty v-if="data.length === 0" :description="$t('empty')" />
             </n-layout-content>
         </n-layout>
     </n-config-provider>
