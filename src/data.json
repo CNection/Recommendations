@@ -398,5 +398,44 @@
         "tag": [
             "Dictionary"
         ]
+    },{
+        "url": "https://www.bing.com/translator",
+        "name": {
+            "zh": "Bing 翻译器",
+            "en": "Bing Translator",
+            "de": "Bing Übersetzer",
+            "ja": "Bing 翻訳",
+            "es": "Traductor de Bing"
+        },
+        "description": {
+            "zh": "Bing 翻译器是一个在线翻译服务，它可以翻译文本和整个文件。它支持多种语言，包括中文、英文、德文、法文等。",
+            "en": "Bing Translator is an online translation service that can translate texts and entire files. It supports multiple languages, including Chinese, English, German, French, etc.",
+            "de": "Bing Übersetzer ist ein Online-Übersetzungsdienst, der Texte und ganze Dateien übersetzen kann. Es unterstützt mehrere Sprachen, darunter Chinesisch, Englisch, Deutsch, Französisch usw.",
+            "ja": "Bing 翻訳は、テキストとファイル全体を翻訳できるオンライン翻訳サービスです。中国語、英語、ドイツ語、フランス語などの複数の言語をサポートしています。",
+            "es": "El Traductor de Bing es un servicio de traducción en línea que puede traducir textos y archivos completos. Admite varios idiomas, incluidos chino, inglés, alemán, francés, etc."
+        },
+        "tag": [
+            "Translator"
+        ]
+    },
+    {
+        "url": "https://translate.google.com/",
+        "name": {
+            "zh": "谷歌翻译",
+            "en": "Google Translate",
+            "de": "Google Übersetzer",
+            "ja": "Google 翻訳",
+            "es": "Traductor de Google"
+        },
+        "description": {
+            "zh": "谷歌翻译是一个在线翻译服务，它可以瞬间翻译单词、短语和网页，支持英语和其他 100 多种语言。",
+            "en": "Google Translate is an online translation service that can instantly translate words, phrases, and web pages between English and over 100 other languages.",
+            "de": "Google Übersetzer ist ein Online-Übersetzungsdienst, der Wörter, Phrasen und Webseiten sofort zwischen Englisch und über 100 anderen Sprachen übersetzen kann.",
+            "ja": "Google 翻訳は、英語と他の 100 以上の言語間で単語、フレーズ、Web ページを即座に翻訳できるオンライン翻訳サービスです。",
+            "es": "El Traductor de Google es un servicio de traducción en línea que puede traducir instantáneamente palabras, frases y páginas web entre inglés y más de 100 otros idiomas."
+        },
+        "tag": [
+            "Translator"
+        ]
     }
 ]
