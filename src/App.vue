@@ -16,6 +16,7 @@ let options = ref([
     { label: 'Official', value: 'Official' },
     { label: 'Dictionary', value: 'Dictionary' },
     { label: 'Education', value: 'Education' },
+    { label: 'Translator', value: 'Translator' },
     { label: 'Favorite', value: 'Favorite' },
 ]);
 let favoriteNames: Ref<string[]> = useLocalStorage('favorite-names', [])
